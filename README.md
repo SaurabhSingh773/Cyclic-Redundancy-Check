@@ -18,3 +18,4 @@ Source Code: Implementations in [languages used, e.g., Python/Java/C++].
 Documentation: Clear explanations of the algorithm and examples.
 Test Cases: Predefined datasets to test CRC implementation.
 Visualization: Optional visualization of the CRC computation process.
+
